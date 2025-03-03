@@ -6,7 +6,7 @@ A comprehensive set of security-focused rules for the Cursor IDE to help develop
 
 This repository contains a collection of security rules designed to be integrated with the Cursor IDE. These rules provide real-time feedback as you write code, highlighting potential security issues and suggesting more secure alternatives.
 
-![Cursor Security Rules Demo](https://api.placeholder.com/800/400)
+![cursor](https://github.com/user-attachments/assets/ddac1220-f8f8-4df4-b53d-07c0c458a147)
 
 ## Features
 
@@ -146,6 +146,4 @@ MIT License - see the [LICENSE](LICENSE) file for details.
 - The Cursor team for their excellent IDE
 - All contributors who have helped improve these rules
 
----
 
-For detailed documentation on all rules, please see [secure-coding-cursor-rules.md](secure-coding-cursor-rules.md).
